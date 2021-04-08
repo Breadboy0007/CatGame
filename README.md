@@ -1,2 +1,2 @@
 # CatGame
-Cat Game alone
+Just a cat game.
